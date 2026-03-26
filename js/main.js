@@ -215,42 +215,42 @@ const galleryData = [
   { src: "assets/gallery/designerfurniture/df3.webp", category: "Designer Furniture", alt: "Designer Furniture" },
   { src: "assets/gallery/designerfurniture/df4.webp", category: "Designer Furniture", alt: "Designer Furniture" },
   { src: "assets/gallery/designerfurniture/df5.webp", category: "Designer Furniture", alt: "Designer Furniture" },
-  { src: "assets/gallery/dining/d1.webp", category: "Dinin", alt: "Dining" },
-  { src: "assets/gallery/dining/d2.webp", category: "Dinin", alt: "Dining" },
-  { src: "assets/gallery/dining/d3.webp", category: "Dinin", alt: "Dining" },
-  { src: "assets/gallery/dining/d4.webp", category: "Dinin", alt: "Dining" },
-  { src: "assets/gallery/dining/d5.webp", category: "Dinin", alt: "Dining" },
-  { src: "assets/gallery/dining/d6.webp", category: "Dinin", alt: "Dining" },
-  { src: "assets/gallery/dining/d7.webp", category: "Dinin", alt: "Dining" },
-  { src: "assets/gallery/interialdesign/id1.webp", category: "Interial Design", alt: "Interial Design" },
-  { src: "assets/gallery/interialdesign/id2.webp", category: "Interial Design", alt: "Interial Design" },
-  { src: "assets/gallery/interialdesign/id3.webp", category: "Interial Design", alt: "Interial Design" },
-  { src: "assets/gallery/interialdesign/id4.webp", category: "Interial Design", alt: "Interial Design" },
-  { src: "assets/gallery/interialdesign/id5.webp", category: "Interial Design", alt: "Interial Design" },
-  { src: "assets/gallery/interialdesign/id6.webp", category: "Interial Design", alt: "Interial Design" },
-  { src: "assets/gallery/interialdesign/id7.webp", category: "Interial Design", alt: "Interial Design" },
-  { src: "assets/gallery/interialdesign/id8.webp", category: "Interial Design", alt: "Interial Design" },
-  { src: "assets/gallery/interialdesign/id9.webp", category: "Interial Design", alt: "Interial Design" },
-  { src: "assets/gallery/interialdesign/id10.webp", category: "Interial Design", alt: "Interial Design" },
-  { src: "assets/gallery/interialdesign/id11.webp", category: "Interial Design", alt: "Interial Design" },
-  { src: "assets/gallery/interialdesign/id12.webp", category: "Interial Design", alt: "Interial Design" },
-  { src: "assets/gallery/interialdesign/id13.webp", category: "Interial Design", alt: "Interial Design" },
-  { src: "assets/gallery/interialdesign/id14.webp", category: "Interial Design", alt: "Interial Design" },
-  { src: "assets/gallery/interialdesign/id15.webp", category: "Interial Design", alt: "Interial Design" },
-  { src: "assets/gallery/interialdesign/id16.webp", category: "Interial Design", alt: "Interial Design" },
-  { src: "assets/gallery/interialdesign/id17.webp", category: "Interial Design", alt: "Interial Design" },
-  { src: "assets/gallery/interialdesign/id18.webp", category: "Interial Design", alt: "Interial Design" },
-  { src: "assets/gallery/interialdesign/id19.webp", category: "Interial Design", alt: "Interial Design" },
-  { src: "assets/gallery/interialdesign/id20.webp", category: "Interial Design", alt: "Interial Design" },
-  { src: "assets/gallery/interialdesign/id21.webp", category: "Interial Design", alt: "Interial Design" },
-  { src: "assets/gallery/interialdesign/id22.webp", category: "Interial Design", alt: "Interial Design" },
-  { src: "assets/gallery/interialdesign/id23.webp", category: "Interial Design", alt: "Interial Design" },
-  { src: "assets/gallery/interialdesign/id24.webp", category: "Interial Design", alt: "Interial Design" },
-  { src: "assets/gallery/interialdesign/id25.webp", category: "Interial Design", alt: "Interial Design" },
-  { src: "assets/gallery/interialdesign/id26.webp", category: "Interial Design", alt: "Interial Design" },
-  { src: "assets/gallery/interialdesign/id27.webp", category: "Interial Design", alt: "Interial Design" },
-  { src: "assets/gallery/interialdesign/id28.webp", category: "Interial Design", alt: "Interial Design" },
-  { src: "assets/gallery/interialdesign/id29.webp", category: "Interial Design", alt: "Interial Design" },
+  { src: "assets/gallery/dining/d1.webp", category: "Dining", alt: "Dining" },
+  { src: "assets/gallery/dining/d2.webp", category: "Dining", alt: "Dining" },
+  { src: "assets/gallery/dining/d3.webp", category: "Dining", alt: "Dining" },
+  { src: "assets/gallery/dining/d4.webp", category: "Dining", alt: "Dining" },
+  { src: "assets/gallery/dining/d5.webp", category: "Dining", alt: "Dining" },
+  { src: "assets/gallery/dining/d6.webp", category: "Dining", alt: "Dining" },
+  { src: "assets/gallery/dining/d7.webp", category: "Dining", alt: "Dining" },
+  { src: "assets/gallery/interialdesign/id1.webp", category: "Interior Design", alt: "Interior Design" },
+  { src: "assets/gallery/interialdesign/id2.webp", category: "Interior Design", alt: "Interior Design" },
+  { src: "assets/gallery/interialdesign/id3.webp", category: "Interior Design", alt: "Interior Design" },
+  { src: "assets/gallery/interialdesign/id4.webp", category: "Interior Design", alt: "Interior Design" },
+  { src: "assets/gallery/interialdesign/id5.webp", category: "Interior Design", alt: "Interior Design" },
+  { src: "assets/gallery/interialdesign/id6.webp", category: "Interior Design", alt: "Interior Design" },
+  { src: "assets/gallery/interialdesign/id7.webp", category: "Interior Design", alt: "Interior Design" },
+  { src: "assets/gallery/interialdesign/id8.webp", category: "Interior Design", alt: "Interior Design" },
+  { src: "assets/gallery/interialdesign/id9.webp", category: "Interior Design", alt: "Interior Design" },
+  { src: "assets/gallery/interialdesign/id10.webp", category: "Interior Design", alt: "Interior Design" },
+  { src: "assets/gallery/interialdesign/id11.webp", category: "Interior Design", alt: "Interior Design" },
+  { src: "assets/gallery/interialdesign/id12.webp", category: "Interior Design", alt: "Interior Design" },
+  { src: "assets/gallery/interialdesign/id13.webp", category: "Interior Design", alt: "Interior Design" },
+  { src: "assets/gallery/interialdesign/id14.webp", category: "Interior Design", alt: "Interior Design" },
+  { src: "assets/gallery/interialdesign/id15.webp", category: "Interior Design", alt: "Interior Design" },
+  { src: "assets/gallery/interialdesign/id16.webp", category: "Interior Design", alt: "Interior Design" },
+  { src: "assets/gallery/interialdesign/id17.webp", category: "Interior Design", alt: "Interior Design" },
+  { src: "assets/gallery/interialdesign/id18.webp", category: "Interior Design", alt: "Interior Design" },
+  { src: "assets/gallery/interialdesign/id19.webp", category: "Interior Design", alt: "Interior Design" },
+  { src: "assets/gallery/interialdesign/id20.webp", category: "Interior Design", alt: "Interior Design" },
+  { src: "assets/gallery/interialdesign/id21.webp", category: "Interior Design", alt: "Interior Design" },
+  { src: "assets/gallery/interialdesign/id22.webp", category: "Interior Design", alt: "Interior Design" },
+  { src: "assets/gallery/interialdesign/id23.webp", category: "Interior Design", alt: "Interior Design" },
+  { src: "assets/gallery/interialdesign/id24.webp", category: "Interior Design", alt: "Interior Design" },
+  { src: "assets/gallery/interialdesign/id25.webp", category: "Interior Design", alt: "Interior Design" },
+  { src: "assets/gallery/interialdesign/id26.webp", category: "Interior Design", alt: "Interior Design" },
+  { src: "assets/gallery/interialdesign/id27.webp", category: "Interior Design", alt: "Interior Design" },
+  { src: "assets/gallery/interialdesign/id28.webp", category: "Interior Design", alt: "Interior Design" },
+  { src: "assets/gallery/interialdesign/id29.webp", category: "Interior Design", alt: "Interior Design" },
   { src: "assets/gallery/interiorsfurnishings/if1.webp", category: "Interiors Furnishing", alt: "Interiors Furnishing" },
   { src: "assets/gallery/interiorsfurnishings/if2.webp", category: "Interiors Furnishing", alt: "Interiors Furnishing" },
   { src: "assets/gallery/interiorsfurnishings/if3.webp", category: "Interiors Furnishing", alt: "Interiors Furnishing" },
@@ -329,16 +329,20 @@ if (galleryGrid) {
 
   /* RENDER BATCH */
   function renderBatch() {
-  if (loading) return;
-  loading = true;
-if (currentIndex >= filteredData.length) {
-  galleryLoader.style.display = "none";
-  return;
-}
-  galleryLoader.style.display = "block"; // SHOW LOADER
+    if (loading) return;
+    loading = true;
 
-  setTimeout(() => {
+    if (currentIndex >= filteredData.length) {
+      if (galleryLoader) galleryLoader.style.display = "none";
+      loading = false;
+      return;
+    }
+
+    // Keep loader hidden since load is instant
+    if (galleryLoader) galleryLoader.style.display = "none";
+
     const slice = filteredData.slice(currentIndex, currentIndex + BATCH_SIZE);
+    const fragment = document.createDocumentFragment();
 
     slice.forEach((item) => {
       const div = document.createElement("div");
@@ -351,19 +355,25 @@ if (currentIndex >= filteredData.length) {
              alt="${item.alt}">
       `;
 
-      galleryGrid.appendChild(div);
+      fragment.appendChild(div);
     });
+    
+    galleryGrid.appendChild(fragment);
 
     lazyLoadImages();
     attachLightbox();
 
     currentIndex += BATCH_SIZE;
 
-    galleryLoader.style.display = "none"; // HIDE LOADER
-    loading = false;
+    // Load is instant, so we never need to show the loader persistently.
+    if (galleryLoader) galleryLoader.style.display = "none";
 
-  }, 300); // small delay for visual effect
-}
+    // If the BATCH_SIZE isn't enough to fill the screen and there are more items, automatically trigger another batch
+    loading = false;
+    if (currentIndex < filteredData.length && window.innerHeight >= document.documentElement.scrollHeight - 200) {
+      renderBatch();
+    }
+  }
 
 
 
@@ -482,8 +492,9 @@ galleryImages.forEach((img, index) => {
 window.addEventListener("load", () => {
   const pre = document.getElementById("preloader");
   if (pre) {
+    // Deliberate delay to show premium branding text animation
     setTimeout(() => {
       pre.classList.add("hide");
-    }, 300);
+    }, 800);
   }
 });

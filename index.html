@@ -22,7 +22,10 @@
 </head>
 <body>
 <div id="preloader">
-  <div class="loader"></div>
+  <div class="loader">
+    <div class="loader-text">Square Meter</div>
+    <div class="loader-line"></div>
+  </div>
 </div>
 
 <!-- NAVBAR -->
@@ -90,7 +93,7 @@
 
   <div class="grid">
     <div class="card">
-      <img src="assets/home/home1.webp">
+      <img src="assets/home/home1.webp" loading="lazy" alt="Corporate Offices">
       <div class="overlay">
         <h3>Corporate Offices</h3>
         <p>High-performance interiors designed for productivity and prestige.</p>
@@ -98,7 +101,7 @@
     </div>
 
     <div class="card">
-      <img src="assets/home/home2.webp">
+      <img src="assets/home/home2.webp" loading="lazy" alt="Hospitality Spaces">
       <div class="overlay">
         <h3>Hospitality Spaces</h3>
         <p>Luxury finishes and refined detailing for premium guest experiences.</p>
@@ -106,7 +109,7 @@
     </div>
 
     <div class="card">
-      <img src="assets/home/home3.webp">
+      <img src="assets/home/home3.webp" loading="lazy" alt="Retail & Commercial">
       <div class="overlay">
         <h3>Retail & Commercial</h3>
         <p>Design-led interiors that elevate brand presence and customer engagement.</p>
@@ -162,12 +165,12 @@
 
   <div class="grid">
     <div class="card">
-      <img src="assets/home/home4.webp">
+      <img src="assets/home/home4.webp" loading="lazy" alt="Leather Panels">
       <div class="overlay"><h3>Leather Panels</h3></div>
     </div>
 
     <div class="card">
-      <img src="assets/home/home5.webp">
+      <img src="assets/home/home5.webp" loading="lazy" alt="Upholstery Solutions">
       <div class="overlay"><h3>Upholstery Solutions</h3></div>
     </div>
   </div>
@@ -219,6 +222,8 @@
     </svg>
   </a>
 </div>
+  </div>
+</div>
 <!-- BOTTOM BAR -->
   <div class="footer-bottom">
     <p>© 2026 Square Meter Lifestyle LLP. All rights reserved.</p>
@@ -227,7 +232,7 @@
 </footer>
 
 
-<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
-<script src="js/main.js"></script>
+<script src="https://unpkg.com/aos@next/dist/aos.js" defer></script>
+<script src="js/main.js" defer></script>
 </body>
 </html>
