@@ -62,10 +62,10 @@
       </p>
     </div>
 
-    <form>
-      <input type="text" placeholder="Your Name" required>
-      <input type="email" placeholder="Your Email" required>
-      <select required>
+    <form action="https://formspree.io/f/xojyprjb" method="POST">
+      <input type="text" name="name" placeholder="Your Name" required>
+      <input type="email" name="email" placeholder="Your Email" required>
+      <select name="category" required>
         <option value="">Select Category</option>
         <option>Glossy</option>
         <option>Super Matt</option>
@@ -74,8 +74,8 @@
         <option>Stone</option>
         <option>Abstract</option>
       </select>
-      <textarea rows="4" placeholder="Tell us about your project"></textarea>
-      <button>SEND INQUIRY</button>
+      <textarea name="message" rows="4" placeholder="Tell us about your project"></textarea>
+      <button type="submit">SEND INQUIRY</button>
     </form>
   </div>
 </section>
@@ -130,7 +130,7 @@
   <!-- BOTTOM BAR -->
   <div class="footer-bottom">
     <p>© 2026 Square Meter Lifestyle LLP. All rights reserved.</p>
-    <p><strong>Created & Made by Tattvo Tech</strong></p>
+    <p><strong>Created & Made by <a href="https://tattvotech.com/" target="_blank">Tattvo Tech</a></strong></p>
   </div>
 </footer>
 
